@@ -38,13 +38,13 @@ Dashboard	Report Export
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/1.png)
+![Dashboard](screenshots/1.PNG)
 
 ### Attack Running
-![Attack Running](screenshots/ONE.png)
+![Attack Running](screenshots/ONE.PNG)
 
 ### Report Export
-![Report Export](screenshots/TWO.png)
+![Report Export](screenshots/TWO.PNG)
 
 
 📂 Project Structure
@@ -115,3 +115,4 @@ Do NOT deploy or use it against production systems or third-party servers.
 📜 License
 
 MIT License © 2025
+
